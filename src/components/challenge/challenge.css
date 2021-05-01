@@ -1,0 +1,17 @@
+.chall-cont
+{
+    display: flex;
+    min-height: 90vh;
+    align-items: center;
+    flex-direction: column;
+    margin: 24px 0;
+}
+
+.chalhead
+{
+    text-align: center;
+    color: white;
+    font-family: "Bangers",cursive;
+    letter-spacing: 5px;
+    font-size: 64px;
+}

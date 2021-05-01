@@ -1,0 +1,17 @@
+.foot-cont
+{
+    display: flex;
+    justify-content: center;
+    background: #1d2020;
+    margin: 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+    z-index: 99;
+}
+
+.linker
+{
+    font-size: 26px;
+    color: white;
+    margin: 10px;
+    text-align: center;
+}

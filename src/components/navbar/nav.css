@@ -1,0 +1,46 @@
+.navbar-cont
+{
+    display: flex;
+    height: 72px;
+    align-items: center;
+    background: #1d2020;
+    margin: 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+    justify-content: space-between;
+    z-index: 99;
+}
+
+.navbar-1
+{
+    display: flex;
+    align-items: center;
+}
+
+.ciop
+{
+    margin-left: 20px;
+    height: 70px;
+}
+
+.logo-txt
+{
+    font-family: "Bangers",cursive;
+    font-size: 60px;
+    letter-spacing: 4px;
+    margin: 0 10px;
+    color: white;
+}
+
+.navbar-2
+{
+    
+    margin-right: 40px;
+}
+
+.link
+{
+   font-size: 32px;
+   color: white;
+   font-weight: 800;
+   text-decoration: none;
+}

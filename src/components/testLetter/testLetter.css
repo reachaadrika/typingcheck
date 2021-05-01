@@ -1,0 +1,20 @@
+.testlett
+{
+    font-size: 19px;
+    line-height: 19px;
+}
+
+.tl-cor
+{
+    color: green;
+}
+
+.tl-incorrect
+{
+    color: red;
+}
+
+.tl-na
+{
+    color: orange;
+}

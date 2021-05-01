@@ -1,0 +1,56 @@
+.land-cont
+{
+    display: flex;
+    min-height: 90vh;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 12px 32px ;
+    font-family: "Bangers",cursive;
+    margin: 0;
+    flex-wrap: wrap;
+}
+
+.head
+{
+    font-size: 72px;
+    letter-spacing: 4px;
+    margin: 0;
+}
+
+.effect
+{
+    font-size: 52px;
+    letter-spacing: 4px;
+    text-decoration: solid;
+}
+.capmarvel
+{
+    width:45vh;
+}
+
+@media (max-width :800px)
+{
+    .land-cont
+    {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .capmarvel
+    {
+        width: 80vh;
+    }
+
+    .head
+    {
+        margin-top: 32px;
+        text-align: center;
+    }
+
+    .effect
+    {
+
+        text-align: center;
+    }
+}
